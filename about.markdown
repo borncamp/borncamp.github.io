@@ -9,3 +9,4 @@ I own a small plant nursery, teach technology classes, provide 1-on-1 career coa
 
 [zubaplants]: (https://www.zubaplants.com)
 [linkedin]: (https://www.linkedin.com/engineeringcoach)
+[projects] (../projects)
