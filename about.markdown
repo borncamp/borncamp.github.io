@@ -7,6 +7,7 @@ permalink: /about/
 Hi, I'm Brian Borncamp.
 I own a small plant nursery, teach technology classes, provide 1-on-1 career coaching, and dabble with data science.   
 
-[zubaplants](https://www.zubaplants.com)
-[linkedin](https://www.linkedin.com/engineeringcoach)
+- [zubaplants](https://www.zubaplants.com)
+- [linkedin](https://www.linkedin.com/engineeringcoach)
+- [github](https://www.github.com/borncamp)
 
