@@ -10,9 +10,11 @@ permalink: /about/
 
     I own a small plant nursery, teach technology classes, provide 1-on-1 career coaching, and dabble with data science.  
 
-    - [ZubaPlants](https://www.zubaplants.com)
-    - [LinkedIn](https://www.linkedin.com/in/engineeringcoach/)
-    - [GitHub](https://www.github.com/borncamp)
+    <ul>
+      <li><a href="https://www.zubaplants.com">ZubaPlants</a></li>
+      <li><a href="https://www.linkedin.com/in/engineeringcoach/">LinkedIn</a></li>
+      <li><a href="https://www.github.com/borncamp">GitHub</a></li>
+    </ul>
   </div>
 </div>
 .
