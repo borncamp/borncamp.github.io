@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
 Some data science projects
 herbariun image parsing
 [Oxford400](https://github.com/borncamp/oxford400)
