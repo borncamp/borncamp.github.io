@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![My GitHub Photo](https://avatars.githubusercontent.com/u/2591581?v=4)
+<img src="https://avatars.githubusercontent.com/u/2591581?v=4" alt="My GitHub Photo" width="30%" />
 Hi, I'm Brian Borncamp. 
 
 I own a small plant nursery, teach technology classes, provide 1-on-1 career coaching, and dabble with data science.   
