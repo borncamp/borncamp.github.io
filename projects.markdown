@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+Some of these are a decade old. YMMV
 
 - **Herbarium Image Parsing**
   - [Oxford400](https://github.com/borncamp/oxford400)
