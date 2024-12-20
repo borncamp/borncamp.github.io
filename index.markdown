@@ -18,4 +18,3 @@ layout: page
     </ul>
   </div>
 </div>
-.
