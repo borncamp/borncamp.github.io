@@ -18,3 +18,4 @@ Some of these are a decade old. YMMV
 - **City of Buffalo Finances**
   - [CDBG](https://github.com/borncamp/cdbg)
   - [Electeds](https://github.com/borncamp/buffalofinances)
+  - [Buffalo Budget Presentation](https://docs.google.com/presentation/d/1CU34FCyjqJYC0hvlR4DFEMY0VaZwanMTFy5ERqANfB8/edit?usp=drive_link)
